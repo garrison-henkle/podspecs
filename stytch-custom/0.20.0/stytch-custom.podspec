@@ -4,7 +4,7 @@ Pod::Spec.new do |spec|
   spec.version               = "0.20.0"
   spec.summary               = "Stytch SDK"
   spec.homepage              = "https://stytch.com"
-  spec.authors               = ""
+  spec.authors               = "Garrison Henkle"
   spec.ios.deployment_target = "14.1"
   spec.swift_version         = "5.5"
 
